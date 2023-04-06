@@ -1,0 +1,5 @@
+packages:
+  - "modules/alter-core/src/*"
+  - "apps/*"
+  - "libs/*"
+  - "tools/*"
