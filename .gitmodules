@@ -1,0 +1,3 @@
+[submodule "modules/alter-core"]
+	path = modules/alter-core
+	url = https://github.com/AlterChat/alter-core
